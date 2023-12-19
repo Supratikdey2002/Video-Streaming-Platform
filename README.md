@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 # Website is live on:https://video-streaming-platform-tau.vercel.app/
 # Your Video Streaming Platform
 
-Overview
+Overview:
 Welcome to Movix, a modern video streaming platform built with React, Vite, SCSS, Redux Toolkit, and React Router. This platform provides a seamless and enjoyable experience for users to stream and discover a wide range of content.
 
 # Features
